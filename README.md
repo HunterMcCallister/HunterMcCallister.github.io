@@ -1,8 +1,12 @@
 # HunterMcCallister.github.io
-Testing testing
+Testing <sup>testing</sup>
 
-#adding hashtags to see what happens
+#### adding hashtags to see what happens
 
-Apoliogze for this being bland, but I need to finish the rest of the assignments.
+Trying to 
+> quote something
 
-Cheers
+
+Apoliogze for this being ~~bland~~ boring, but I need to finish the rest of the assignments.
+
+***Cheers***
